@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>Title</title>
+    <link href="stylesheets/app.css" rel="stylesheet">
 </head>
 <body>
 <div class="header">

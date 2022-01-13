@@ -9,6 +9,8 @@
 <html>
 <head>
     <title>Login</title>
+    <link href="stylesheets/app.css" rel="stylesheet">
+    <link href="stylesheets/login.css" rel="stylesheet">
 </head>
 <div class="header">
     <img class="header__company-logo" src="">
@@ -23,7 +25,7 @@
     <form action="register" method="post">
         Enter Username : <input type="text" placeholder="Enter Username">
     </form>
-    <button class="button">Stop</button>
+    <button class="button button_login">Stop</button>
 </div>
 <div class="footer">
 
