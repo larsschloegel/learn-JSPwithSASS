@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>JSP - Hello World</title>
-    <link href="stylesheets/app.css" rel="stylesheet">
+    <link href="stylesheets/main.css" rel="stylesheet">
 </head>
 <body>
 <br/>

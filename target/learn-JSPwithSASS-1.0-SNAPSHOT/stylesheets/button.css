@@ -1,7 +1,7 @@
 /*
 Error: Undefined mixin 'desktop'.
-        on line 7 of C:/Users/lschloegel/IdeaProjects/learn-JSPwithSASS/src/main/webapp/WEB-INF/sass/_button.scss, in `desktop'
-        from line 7 of C:/Users/lschloegel/IdeaProjects/learn-JSPwithSASS/src/main/webapp/WEB-INF/sass/_button.scss
+        on line 7 of C:/Users/lschloegel/IdeaProjects/learn-JSPwithSASS/src/main/webapp/WEB-INF/sass/_components_button.scss, in `desktop'
+        from line 7 of C:/Users/lschloegel/IdeaProjects/learn-JSPwithSASS/src/main/webapp/WEB-INF/sass/_components_button.scss
 
 2:   display: inline-flex;
 3:   justify-content: center;
@@ -16,8 +16,8 @@ Error: Undefined mixin 'desktop'.
 12:   @include button-1() {
 
 Backtrace:
-C:/Users/lschloegel/IdeaProjects/learn-JSPwithSASS/src/main/webapp/WEB-INF/sass/_button.scss:7:in `desktop'
-C:/Users/lschloegel/IdeaProjects/learn-JSPwithSASS/src/main/webapp/WEB-INF/sass/_button.scss:7
+C:/Users/lschloegel/IdeaProjects/learn-JSPwithSASS/src/main/webapp/WEB-INF/sass/_components_button.scss:7:in `desktop'
+C:/Users/lschloegel/IdeaProjects/learn-JSPwithSASS/src/main/webapp/WEB-INF/sass/_components_button.scss:7
 uri:classloader:/gems/sass-3.4.24/lib/sass/tree/visitors/perform.rb:351:in `block in visit_mixin'
 uri:classloader:/gems/sass-3.4.24/lib/sass/stack.rb:98:in `block in with_mixin'
 uri:classloader:/gems/sass-3.4.24/lib/sass/stack.rb:115:in `with_frame'

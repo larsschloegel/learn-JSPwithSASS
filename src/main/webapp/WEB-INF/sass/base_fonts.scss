@@ -1,0 +1,15 @@
+// fonts
+@mixin dm-sans() {
+  font-family: "DM Sans", sans-serif;
+  @content;
+}
+
+
+// buttons
+@mixin button-1{
+  @include dm-sans {
+    line-height: (16/14);
+    font-weight: 700;
+  }
+  @content;
+}

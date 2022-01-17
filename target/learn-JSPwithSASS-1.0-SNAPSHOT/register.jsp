@@ -9,7 +9,7 @@
 <html>
 <head>
     <title>Title</title>
-    <link href="stylesheets/app.css" rel="stylesheet">
+    <link href="stylesheets/main.css" rel="stylesheet">
 </head>
 <body>
 <div class="header">
