@@ -19,20 +19,14 @@ Y
 ).idea/artifacts/learn_JSPwithSASS_war.xml,8\6\86902784d8867d7a64a6d0c548f492148faeee75
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
-U
-%src/main/webapp/stylesheets/reset.css,9\d\9dad434e4795ce73d9bc23a3a9ccbad1eb4414a3
 Y
 )src/main/webapp/stylesheets/reset.css.map,d\a\da492cfbbd8f69661444e66f77f3743db54a7e1e
 E
 learn-JSPwithSASS.iml,7\1\7116ef327ae67a794c656444ba7f347a6420009a
 Y
 )src/main/webapp/stylesheets/index.css.map,7\9\797a4c3e32125da42c14afeec8178933ed87ad4e
-U
-%src/main/webapp/stylesheets/index.css,8\5\859e22580c5cf4f87204cb7f8b14b074d41653dc
 o
 ?src/main/java/com/example/learnjspwithsass/RegisterServlet.java,c\0\c0be9a4f7f4daea5e2ca92e1eb5e268c3c7b31b1
-U
-%src/main/webapp/stylesheets/login.css,3\b\3b95d39a4aa4a286f49f907f6f60964d92b79370
 l
 <src/main/java/com/example/learnjspwithsass/HelloServlet.java,4\9\49b34fdd577d6b0611a2fa60c6732e2c4281e856
 Z
@@ -55,5 +49,3 @@ f
 0src/main/webapp/WEB-INF/sass/layout/_header.scss,7\2\721eaddd026bde154cc66b5a8710b676639d59a9
 ^
 .src/main/webapp/WEB-INF/sass/layout/_grid.scss,9\3\9344af212f364c5b2e9e069b708845633f65bb88
-T
-$src/main/webapp/stylesheets/main.css,0\f\0f7fad745be53d674c9b14229671e0409a5c3164

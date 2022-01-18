@@ -6,7 +6,6 @@
     <link href="stylesheets/main.css" rel="stylesheet">
 </head>
 <body>
-<br/>
 <a href="register.jsp">Registration</a>
 <a href="login.jsp">Login</a>
 </body>
